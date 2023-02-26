@@ -1,7 +1,7 @@
 # Frontend Mentor - Results summary component
 pull
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
-
+push
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
